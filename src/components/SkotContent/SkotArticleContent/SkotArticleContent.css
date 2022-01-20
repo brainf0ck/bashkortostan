@@ -1,0 +1,15 @@
+.skot_article_content {
+    display: inline-block;
+    width: 500px;
+    height: 570px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.skot_article {
+    display: inline;
+    width: 380px;
+    font-weight: bold;
+    margin: 10px 0 0 10px;
+    text-indent: 40px;
+}

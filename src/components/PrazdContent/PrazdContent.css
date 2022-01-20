@@ -1,0 +1,33 @@
+.prazd1_img {
+    width: 400px;
+    border-radius: 10px;
+    border: 1px solid black;
+    position: absolute;
+    margin: 0 0 0 10px;
+}
+
+.prazd2_img {
+    width: 400px;
+    border-radius: 10px;
+    border: 1px solid black;
+    position: absolute;
+    top: 272px;
+    margin: 2px 0 0 10px;
+}
+
+.prazd_header {
+    background-color: #003d0c;
+    color: white;
+    text-align: center;
+    height: 37px;
+    width: 915px;
+    font-size: 30px;
+    border-bottom: 5px solid #ff4f3d;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.prazd_content_div {
+    position: relative;
+    margin: 10px 0 0 0;
+}
